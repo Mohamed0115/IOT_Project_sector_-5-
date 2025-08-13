@@ -31,7 +31,7 @@ The system connects to a **Wi-Fi network** and the public **MQTT broker** at `br
 
 ## 📱 Mobile App Setup (IoT MQTT Client)  
 ### Steps to Make Setup on Mobile:  
-1. Download and install the **IoT MQTT Panel app** from your app store [IoT MQTT Panel](https://play.google.com/store/apps/details?id=com.iot.app.mqttdashboard). 📲  
+1. Download and install the **IoT MQTT Panel app** from your app store [IoT MQTT Panel](https://play.google.com/store/apps/details?id=snr.lab.iotmqttpanel.prod). 📲  
 2. Open the app and add a new **MQTT client configuration**. ⚙️  
 3. Enter the broker details: `broker.emqx.io` with port `1883`. 🌐  
 4. Subscribe to `/sectorb5/msbah/1` and `/sectorb5/msbah/2` to monitor **sensor data**. 👀  
