@@ -1,5 +1,5 @@
 # SectorB5 IoT Project 🌐✨  
-**Mentored by: Omar Barakat**  
+**Mentored by: [Omar Barakat](https://www.linkedin.com/in/omarbarakota/)**  
 
 ## 🌟 Project Overview  
 The **SectorB5 IoT Project** is an exciting venture into the world of **Internet of Things (IoT)** technology! 🎉 This project leverages an **ESP32** microcontroller to create a **smart system** that integrates an **IR sensor** and an **LED**, controlled and monitored via the **IoT MQTT Panel app**. 🚀 The system demonstrates **real-time communication** using the **MQTT protocol**, allowing users to toggle the **LED** remotely and detect objects using the **IR sensor**. 🌱 Perfect for learning **IoT fundamentals** and building **interactive smart devices**! 🛠️  
