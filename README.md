@@ -1,5 +1,3 @@
-# IOT_Project_sector_🅱️5️⃣
-LATER
 # SectorB5 IoT Project 🌐✨  
 **Mentored by: Omar Barakat**  
 
