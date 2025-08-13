@@ -42,7 +42,7 @@ The system connects to a **Wi-Fi network** and the public **MQTT broker** at `br
 - **MQTTX Setup 1.11.1**: A powerful MQTT client for testing and debugging. [Installation Guide](https://mqttx.app/downloads)  
 
 ## 🎥 Demo & Results  
-- A video showcasing the project in action is available! Watch the <span style="color: #33FF57">LED</span> toggle and **sensor data** update in **real-time** [Video Link](https://drive.google.com/file/d/17rBqDjGTfwB-cq_1fCfG6H2kz-n7MWRv/view?usp=drivesdk). 📹  
+- A video showcasing the project in action is available! Watch the <span style="color: #33FF57">LED</span> toggle and **sensor data** update in **real-time** [Video Link](https://drive.google.com/file/d/18yjNnalZ1KODhNZk7AqNn8EcU9e9z9Fl/view?usp=sharing). 📹  
 - Screenshots or additional videos are added in other files here. 🖼️  
 
 ## 🧠 Learnings  
