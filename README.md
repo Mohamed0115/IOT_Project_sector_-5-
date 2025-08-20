@@ -43,7 +43,7 @@ The system connects to a **Wi-Fi network** and the public **MQTT broker** at `br
 
 ## 🎥 Demo & Results  
 - A video showcasing the project in action is available! Watch the <span style="color: #33FF57">LED</span> toggle and **sensor data** update in **real-time** [Video Link](https://drive.google.com/file/d/18yjNnalZ1KODhNZk7AqNn8EcU9e9z9Fl/view?usp=sharing). 📹  
-- Screenshots or additional videos are added in other files here. 🖼️  
+- Screenshots or additional videos will be added in other files here. 🖼️  
 
 ## 🧠 Learnings  
 - Gained hands-on experience with <span style="color: #FF33A1">ESP32</span> programming and **IoT communication**. 📚  
